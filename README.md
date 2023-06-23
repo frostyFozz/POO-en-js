@@ -1,3 +1,3 @@
 # POO-en-js
 
-Mis primeros pasos aprendiendo la programacion orientada a objetos en JS donde aprendi sobre polimorfismo, clases , instancias y objetos 
+My first steps learning object oriented programming in JS where I learned about polymorphism, classes, instances and objects 
